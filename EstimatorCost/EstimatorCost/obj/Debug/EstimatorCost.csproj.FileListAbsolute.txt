@@ -1,0 +1,9 @@
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\bin\Debug\EstimatorCost.exe.config
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\obj\Debug\EstimatorCost.csprojResolveAssemblyReference.cache
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\obj\Debug\EstimatorCost.Form1.resources
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\obj\Debug\EstimatorCost.Properties.Resources.resources
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\obj\Debug\EstimatorCost.csproj.GenerateResource.Cache
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\bin\Debug\EstimatorCost.exe
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\bin\Debug\EstimatorCost.pdb
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\obj\Debug\EstimatorCost.exe
+C:\Users\jcabarros\Documents\Jean\Treinamentos\DotNet\HeadFirst\Exercicios\EstimatorCost\EstimatorCost\obj\Debug\EstimatorCost.pdb
